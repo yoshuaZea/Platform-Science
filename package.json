@@ -1,0 +1,20 @@
+{
+  "name": "platform_science_exercise",
+  "version": "1.0.0",
+  "description": "Maximizing the total suitability",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshuaZea/Platform-Science.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Job Yoshua Zea",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
